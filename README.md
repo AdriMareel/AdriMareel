@@ -5,15 +5,13 @@
 
 <br>
 
-- 🌱 Full-Stack Web development
+- 💻 Full-Stack Web development
 
 - 📫 How to reach me **adrien.mareel@student.junia.com**
 
-- ⚡ Aprenticeship
-
 <br>
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ## Front-end
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
